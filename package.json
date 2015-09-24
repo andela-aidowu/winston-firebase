@@ -1,0 +1,33 @@
+{
+  "name": "winston-firebase",
+  "version": "0.0.1",
+  "description": "A winston transport for firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andela-aidowu/winston-firebase.git"
+  },
+  "keywords": [
+    "logger",
+    "log",
+    "firebase",
+    "winston",
+    "tools",
+    "sysadmin",
+    "logging"
+  ],
+  "author": "Abimbola Idowu <abimbola2010@gmail.com> (http://hisabimbola.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andela-aidowu/winston-firebase/issues"
+  },
+  "homepage": "https://github.com/andela-aidowu/winston-firebase#readme",
+  "dependencies": {
+    "firebase": "^2.2.9",
+    "firebase-token-generator": "^2.0.0",
+    "winston": "^1.0.1"
+  }
+}
