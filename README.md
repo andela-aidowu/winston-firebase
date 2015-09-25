@@ -15,6 +15,7 @@ Basic transport that works just like all other winston transports. Sends logged 
   * **UID**: user ID,
 
   * **admin**: true or false
+
 ## Usage
   ```
   'use strict';
