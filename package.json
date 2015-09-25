@@ -20,16 +20,19 @@
     "logging"
   ],
   "author": "Abimbola Idowu <abimbola2010@gmail.com> (http://hisabimbola.com)",
-  "license": [{
-    "type": "MIT",
-    "url": "https://github.com/andela-aidowu/winston-firebase/blob/master/LICENSE"
-  }],
+  "license": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/andela-aidowu/winston-firebase/blob/master/LICENSE"
+    }
+  ],
   "bugs": {
     "url": "https://github.com/andela-aidowu/winston-firebase/issues"
   },
   "homepage": "https://github.com/andela-aidowu/winston-firebase#readme",
   "dependencies": {
     "firebase": "^2.2.9",
+    "firebase-auth": "^0.1.0",
     "firebase-token-generator": "^2.0.0",
     "winston": "^1.0.1"
   }
