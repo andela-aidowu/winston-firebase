@@ -1,6 +1,6 @@
 {
   "name": "winston-firebase",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "A winston transport for firebase",
   "main": "index.js",
   "scripts": {
