@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/andela-aidowu/winston-firebase.git"
+    "url": "git+https://github.com/hisabimbola/winston-firebase.git"
   },
   "keywords": [
     "logger",
@@ -22,12 +22,12 @@
   "author": "Abimbola Idowu <abimbola2010@gmail.com> (http://hisabimbola.com)",
   "license": [{
     "type": "MIT",
-    "url": "https://github.com/andela-aidowu/winston-firebase/blob/master/LICENSE"
+    "url": "https://github.com/hisabimbola/winston-firebase/blob/master/LICENSE"
   }],
   "bugs": {
-    "url": "https://github.com/andela-aidowu/winston-firebase/issues"
+    "url": "https://github.com/hisabimbola/winston-firebase/issues"
   },
-  "homepage": "https://github.com/andela-aidowu/winston-firebase#readme",
+  "homepage": "https://github.com/hisabimbola/winston-firebase#readme",
   "dependencies": {
     "firebase": "^2.2.9",
     "firebase-token-generator": "^2.0.0",
